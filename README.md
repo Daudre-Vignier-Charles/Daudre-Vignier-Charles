@@ -14,4 +14,8 @@ I do administration and engineering in various IT fields:
 - network and system security with particularly Linux hardening (bullet proof servers). 
 
 #### Contact
+Github technical contact
 <github@contact.daudre-vignier.net>
+
+Recruitement contact
+<charles-recrutement@daudre-vignier.net>
