@@ -11,7 +11,8 @@ I do administration and engineering in various IT fields:
 - VoIP telephony (Cisco Unified Communication, 3CX)
 - Microsofts products (Active Directory architecture, etc)
 - mail security (SPF, DMARC, DKIM)
-- network and system security with particularly Linux hardening (bullet proof servers). 
+- network and system security with particularly Linux hardening (bullet proof servers)
+- IT Audit (infrastructure, operation and security)
 
 #### Contact
 Github technical contact
