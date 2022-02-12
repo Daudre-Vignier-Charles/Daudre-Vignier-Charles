@@ -11,6 +11,7 @@ I do administration and engineering in various IT fields:
 - VoIP telephony (Cisco Unified Communication, 3CX)
 - Microsofts products (Active Directory architecture, etc)
 - mail security (SPF, DMARC, DKIM)
+- virtualization (HyperV, Proxmox, QEMU-KVM)
 - network and system security with particularly Linux hardening (bullet proof servers)
 - IT Audit (infrastructure, operation and security)
 
