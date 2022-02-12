@@ -16,7 +16,7 @@ I do administration and engineering in various IT fields:
 - IT Audit (infrastructure, operation and security)
 
 #### Contact
-Github technical contact
+Github related technical contact
 <github[@]contact.daudre-vignier.net>
 
 Recruitement contact
