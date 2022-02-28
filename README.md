@@ -17,7 +17,7 @@ I do administration and engineering in various IT fields:
 
 #### Contact
 Github related technical contact
-<github[@]contact.daudre-vignier.net>
+<github[at]contact.daudre-vignier[dot]net>
 
 Recruitement contact
-<charles-recrutement[@]daudre-vignier.net>
+<charles-recrutement[at]daudre-vignier[dot]net>
