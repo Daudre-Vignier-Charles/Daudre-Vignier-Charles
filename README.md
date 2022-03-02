@@ -6,14 +6,14 @@ I develop for my personal needs in C, C# and python. I also do shell scripting (
 
 #### Professionnal
 I do infrastructures administration and engineering in various IT fields:
-- network (TCP/IP, proxying and intermediation, DNS)
-- sytems Linux, Windows Servers, Solaris, BSD
-- VoIP telephony (Cisco Unified Communication, 3CX - certified -)
-- Microsofts products (Active Directory architecture, etc)
-- mail security (SPF, DMARC, DKIM)
-- virtualization (ESXi, HyperV, QEMU-KVM - Proxmox -)
-- network and system security with particularly Linux hardening (bullet proof servers)
-- IT Audit (infrastructure, operation and security)
+- **network** : TCP/IP, proxying and intermediation (NGINX, HAProxy, CloudFlare), DNS
+- **sytems** : Linux, Windows Servers, Solaris, BSD
+- **VoIP telephony** : Cisco Unified Communication, 3CX (I have the advanced certification) 
+- **Microsofts products** : Active Directory architecture, etc
+- **mail security** : SPF, DMARC, DKIM
+- **virtualization** : ESXi, HyperV, QEMU-KVM (Proxmox)
+- **network and system security** with particularly Linux hardening (bullet proof servers)
+- **IT Audit** : infrastructure, operation and security, penetration testing with Kali and social engineering with various tools
 
 #### Contact
 Github related technical contact
