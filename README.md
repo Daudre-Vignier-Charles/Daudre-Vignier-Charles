@@ -9,7 +9,7 @@ I do infrastructures administration and engineering in various IT fields:
 - **network** : TCP/IP, proxying and intermediation (NGINX, HAProxy, CloudFlare), DNS
 - **sytems** : Linux, Windows Servers, Solaris, BSD
 - **VoIP telephony** : Cisco Unified Communication, 3CX (I have the advanced certification) 
-- **Microsofts products** : Active Directory architecture, etc
+- **Microsofts products** : Active Directory architecture and management, SQL Server, etc
 - **mail security** : SPF, DMARC, DKIM
 - **virtualization** : ESXi, HyperV, QEMU-KVM (Proxmox)
 - **network and system security** with particularly Linux hardening (bullet proof servers)
