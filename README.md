@@ -4,7 +4,7 @@
 My personal servers are Unix-Like (BSD/Linux/Solaris) and I use Debian as my desktop OS.
 I develop for my personal needs in C, C# and python. I also do shell scripting (I'm a ZSH enthusiast) and I am a fan of Vim and Git.
 
-#### Professionnal
+#### Professionnal / recruitment 
 I do infrastructures audit, administration and engineering in various IT fields:
 - **IT Audit** : infrastructure, operation and security, penetration testing with Kali and social engineering with various tools
 - **network** : TCP/IP, proxying and intermediation (NGINX, HAProxy, CloudFlare), DNS
