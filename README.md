@@ -25,4 +25,5 @@ Recruitement contact
 <charles-recrutement[at]daudre-vignier[dot]net>
 
 [My LinkedIn Profile](https://www.linkedin.com/in/charles-daudr%C3%A9-vignier-6891a3189/)
+
 [My website (french)](https://charles.daudre-vignier.net)
