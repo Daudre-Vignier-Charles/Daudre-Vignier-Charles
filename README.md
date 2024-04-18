@@ -24,6 +24,6 @@ Github related technical contact
 Recruitement contact
 <charles-recrutement[at]daudre-vignier[dot]net>
 
-[My LinkedIn Profile](https://www.linkedin.com/in/charles-daudr%C3%A9-vignier-6891a3189/)
+[My LinkedIn Profile](https://www.linkedin.com/in/%F0%9F%91%BE-charles-daudr%C3%A9-vignier-6891a3189/)
 
 [My website (french)](https://charles.daudre-vignier.net)
