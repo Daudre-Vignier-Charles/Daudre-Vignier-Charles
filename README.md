@@ -9,7 +9,7 @@ I do infrastructures audit, administration and engineering in various IT fields:
 - **IT Audit** : infrastructure, operation and security, penetration testing with Kali and social engineering with various tools
 - **network** : TCP/IP, network services, proxying and intermediation (NGINX, HAProxy, CloudFlare), DNS
 - **systems** : Linux, Windows Servers, Solaris, BSD
-- **VoIP telephony** : Cisco Unified Communication, 3CX (I have the advanced certification), Mitel MiVoice 5000 (Certified)
+- **VoIP** : Cisco Unified Communication, 3CX (I have the advanced certification), Mitel MiVoice 5000 (Certified)
 - **virtualization** : VMWare ESXi, Microsoft Hyper-V, QEMU-KVM (Proxmox)
 - **monitoring** : CheckMK
 - **Microsofts products** : Active Directory architecture and management, SQL Server, Microsoft DNS, DHCP etc
