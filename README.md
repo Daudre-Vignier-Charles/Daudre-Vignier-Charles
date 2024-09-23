@@ -8,7 +8,7 @@ I develop for my personal needs in C, C#, Lua and python. I also do shell script
 I do infrastructures audit, administration and engineering in various IT fields:
 - **IT Audit** : infrastructure, operation and security, penetration testing with Kali and social engineering with various tools
 - **network** : TCP/IP, network services, proxying and intermediation (NGINX, HAProxy, CloudFlare), DNS
-- **sytems** : Linux, Windows Servers, Solaris, BSD
+- **systems** : Linux, Windows Servers, Solaris, BSD
 - **VoIP telephony** : Cisco Unified Communication, 3CX (I have the advanced certification), Mitel MiVoice 5000 (Certified)
 - **virtualization** : VMWare ESXi, Microsoft Hyper-V, QEMU-KVM (Proxmox)
 - **monitoring** : CheckMK
