@@ -5,16 +5,16 @@ My personal servers are Unix-Like (BSD/Linux/Solaris) and I use Debian as my des
 I develop for my personal needs in C, C#, Lua and python. I also do shell scripting (I'm a ZSH enthusiast) and I am a fan of Vim and Git.
 
 #### Professionnal / recruitment 
-I do infrastructures audit, administration and engineering in various IT fields:
-- **IT Audit** : infrastructure, operation and security, penetration testing with Kali and social engineering with various tools
-- **network** : TCP/IP, network services, proxying and intermediation (NGINX, HAProxy, CloudFlare), DNS
-- **systems** : Linux, Windows Servers, RedHat, BSD
-- **VoIP** : Cisco Unified Communication, 3CX (I have the advanced certification), Mitel MiVoice 5000 (Certified)
-- **virtualization** : VMWare ESXi, Microsoft Hyper-V, QEMU-KVM (Proxmox)
-- **monitoring** : CheckMK
-- **Microsofts products** : Active Directory architecture and management, SQL Server, Microsoft DNS, DHCP etc
-- **mail security** : SPF, DMARC, DKIM
-- **network and system security** with particularly Linux hardening (bullet proof servers)
+I'm an IT Infrastructure Engineer and I do audit, administration and engineering in various fields of IT infrastructures:
+- **IT Audit**: infrastructure and operation security, penetration testing and social engineering.
+- **network**: TCP/IP, network services, proxying and intermediation (NGINX, HAProxy, CloudFlare), DNS, etc
+- **systems**: Linux, Windows Servers, RedHat, BSD
+- **VoIP**: Cisco Unified Communication, 3CX (I have the advanced certification), Mitel MiVoice 5000 (Certified), Mitel products
+- **virtualization**: QEMU-KVM (Proxmox), VMWare ESXi, Microsoft Hyper-V
+- **monitoring**: CheckMK etc
+- **Microsofts products**: Active Directory architecture and management, SQL Server, Microsoft DNS, DHCP etc
+- **mail security**: SPF, DMARC, DKIM
+- **network and system security**: Linux hardening (bullet proof servers), Cortex XDR deployment and management etc
 
 #### Contact
 Github related technical contact
