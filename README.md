@@ -6,7 +6,7 @@ I develop for my professional or personal needs in C, C#, Lua and Python3. I als
 
 #### Professionnal / recruitment 
 I'm an IT Infrastructure Engineer and I do audit, administration and engineering in various fields of IT infrastructures:
-- **IT Audit**: infrastructure and operation security, penetration testing and social engineering.
+- **IT Audit**: infrastructure and operation optimization, resilience, security
 - **network**: TCP/IP, network services, proxying and intermediation (NGINX, HAProxy, CloudFlare), DNS, etc
 - **systems**: Linux, Windows Servers, RedHat, BSD
 - **VoIP**: Cisco Unified Communication, 3CX (I have the advanced certification), Mitel MiVoice 5000 (Certified), Mitel products, DECT technologies and products (Mitel and Ascom)
@@ -14,7 +14,7 @@ I'm an IT Infrastructure Engineer and I do audit, administration and engineering
 - **monitoring**: CheckMK etc
 - **Microsofts products**: Active Directory architecture and management, SQL Server, Microsoft DNS, DHCP etc
 - **mail security**: SPF, DMARC, DKIM
-- **network and system security**: Linux hardening (bullet proof servers), Cortex XDR deployment and management etc
+- **network and system security**: Linux hardening (bullet proof servers), deployment and management of security products (Cortex XDR, ESET), penetration testing and social engineering
 
 #### Contact
 Github related technical contact
