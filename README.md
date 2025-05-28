@@ -7,7 +7,7 @@ I develop for my professional or personal needs in C, C#, Lua and Python3. I als
 #### Professionnal / recruitment 
 I'm an IT Infrastructure Engineer and I do audit, administration and engineering in various fields of IT infrastructures:
 - **IT Audit**: infrastructure and operation optimization, resilience, security
-- **software development**: Automation, administration tools, API consumption
+- **software development**: Automation (I love that, if only I could automate everything !), administration tools, API consumption
 - **network**: TCP/IP, network services, proxying and intermediation (NGINX, HAProxy, CloudFlare), DNS, etc
 - **systems**: Linux, Windows Servers, RedHat, BSD
 - **VoIP**: Cisco Unified Communication, 3CX (I have the advanced certification), Mitel MiVoice 5000 (Certified), Mitel products, DECT technologies and products (Mitel and Ascom)
