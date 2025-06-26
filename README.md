@@ -25,13 +25,25 @@ I’m an IT Infrastructure Engineer, performing audits, administration, and engi
 Administration of the hypervisors and technical VMs for Vinci Africa and DOM-TOM (French overseas departments and territories), together with two other engineers.
 - ~30 KVM and VMWare hypervisors
 - ~200 VMs Centos & Windows
+
+Projects:
 - One of my team goals was to achieve near-full automation of management tasks and to implement a Self-Healing Infrastructure model for the automated resolution of common incidents (notably excluding disk space issues).
-- My project [kvm_infogathering](https://github.com/Daudre-Vignier-Charles/kvm_infogathering) was developed in this context to collect information from KVM hypervisors.
+- The script [kvm_infogathering](https://github.com/Daudre-Vignier-Charles/kvm_infogathering) was developed in this context to collect information from KVM hypervisors.
 - Projects:
   - Migration from KVM to VMware
   - Automated deployment of an EDR solution for KVM hypervisors and Windows/Linux/CentOS VMs
   - Architecture and deployement of a monitoring solution
   - Automation of firmware and system updates
+ 
+Tasks:
+- Deliver assigned projects,
+- N2/N3 operation of central infrastructures and common base,
+- monitoring and management of Windows Server, RedHat/CentOS, KVM/VMWare hypervisors lifecycle,
+- middleware,
+- reporting,
+- postmortem documentation,
+- documentation
+- management of anomalies, incidents and problems.
 
 ##### March 2022 - August 2022 > Two missions as Freelance Developper and IT Consultant
 
@@ -46,7 +58,10 @@ Second mission was related to :
 ##### 2020 - 2022 > Internship at GPLExpert in the engineering department as a System, Network and VoIP Administrator and Consultant
 
 GPLExpert is an ISO27001 compliant company
+
 GPLExpert has the HDS state accreditation (Hébergeur de Données de Santé - Medical Data Hosting in english)
+
+
 
 ##### 2018 - 2020 > Internship at DSO Group (M&A with Groupe MCS, now iQera) as a System, Network and VoIP Technician
 
