@@ -93,8 +93,7 @@ Tasks:
 - request and incident management
 
 ## Contact
-Github related technical contact
-<github[at]contact.daudre-vignier[dot]net>
 
-Recruitement contact
-<charles-recrutement[at]daudre-vignier[dot]net>
+For technical or GitHub related inquiries, please email me at <github[at]contact.daudre-vignier[dot]net>
+
+For recruitment inquiries, please email me at <charles-recrutement[at]daudre-vignier[dot]net>
