@@ -9,7 +9,7 @@ I also like to create SVG icons with Inkscape and play with CAD softwares (I'm d
 And if you're wondering about my hobbies:
 - Reading books,
 - hiking and trekking,
-- pharmacology (especialy CNS pharmacology) and chemistry
+- pharmacology (especially CNS pharmacology) and chemistry
 
 #### Professionnal
 
