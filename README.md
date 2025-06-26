@@ -19,12 +19,12 @@ I'm an IT Infrastructure Engineer and I do audit, administration and engineering
 
 #### Curiculum Vitae
 
-##### September 2022 - September 2023 - System Engineer, Vinci
+##### September 2022 - September 2023 > Permanent contract at Synapsys as System Engineer, full time placed at Vinci headquarter as Unix-Like Expert
 
 Administration of the hypervisors and technical VMs for Vinci Africa and DOM-TOM (French overseas departments and territories), together with two other engineers.
 - ~30 KVM and VMWare hypervisors
 - ~200 VMs Centos & Windows
-- My specialty in the team was Unix-like OS and KVM. One of my goals was to achieve near-full automation of management tasks and to implement a Self-Healing Infrastructure model for the automated resolution of common incidents (notably excluding disk space issues).
+- One of my team goals was to achieve near-full automation of management tasks and to implement a Self-Healing Infrastructure model for the automated resolution of common incidents (notably excluding disk space issues).
 - My project [kvm_infogathering](https://github.com/Daudre-Vignier-Charles/kvm_infogathering) was developed in this context to collect information from KVM hypervisors.
 - Projects:
   - Migration from KVM to VMware
@@ -32,18 +32,21 @@ Administration of the hypervisors and technical VMs for Vinci Africa and DOM-TOM
   - Architecture and deployement of a monitoring solution
   - Automation of firmware and system updates
 
-##### March 2022 - August 2022 - Freelance, Developper and IT Consultant
+##### March 2022 - August 2022 > Freelance > Developper and IT Consultant
 
 First mission was related to Financial Technologies
 - Developpement of libraries for consuming the IBKR API
 - Development of libraries for financial analysis and data gathering
- 
+
 Second mission was related to :
-- Data Management and Analysis in a political context
+- Data Management and Analysis in a political context (no more details because of NDA)
 
-##### 2020 - 2022, Internship, System, Network and VoIP Administrator - Consultant, GPLExpert
+##### 2020 - 2022 > Internship at GPLExpert in the engineering department as a System, Network and VoIP Administrator and Consultant
 
-##### 2018 - 2020, Internship, System, Network and VoIP Technician, DSOGroup / iQera
+GPLExpert is an ISO27001 compliant company
+GPLExpert has the HDS state accreditation (Hébergeur de Données de Santé - Medical Data Hosting in english)
+
+##### 2018 - 2020 > Internship at DSO Group (M&A with Groupe MCS, now iQera) as a System, Network and VoIP Technician
 
 #### Contact
 Github related technical contact
