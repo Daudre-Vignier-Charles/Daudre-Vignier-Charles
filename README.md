@@ -7,7 +7,7 @@ My personal servers run Unix-like systems (BSD, Linux, Solaris), and I use Debia
 I also like to create SVG icons with Inkscape and play with CAD softwares (I'm definitively not a good CAD engineer but it is fun and useful).
 
 And if you're wondering about my hobbies:
-- Reading books,
+- reading books,
 - hiking and trekking,
 - pharmacology (especially CNS pharmacology) and chemistry
 - computer games: first-person shooters (FPS) like Call of Duty, Modern Warfare or Battlefield, real-time strategy (RTS) and turn-based strategy (TBS)
