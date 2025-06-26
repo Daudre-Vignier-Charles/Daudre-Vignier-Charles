@@ -29,11 +29,10 @@ Administration of the hypervisors and technical VMs for Vinci Africa and DOM-TOM
 Projects:
 - One of my team goals was to achieve near-full automation of management tasks and to implement a Self-Healing Infrastructure model for the automated resolution of common incidents (notably excluding disk space issues).
 - The script [kvm_infogathering](https://github.com/Daudre-Vignier-Charles/kvm_infogathering) was developed in this context to collect information from KVM hypervisors.
-- Projects:
-  - Migration from KVM to VMware
-  - Automated deployment of an EDR solution for KVM hypervisors and Windows/Linux/Red Hat Enterprise Linux VMs
-  - Architecture and deployement of a monitoring solution
-  - Automation of firmware and system updates
+- Migration from KVM to VMware
+- Automated deployment of an EDR solution for KVM hypervisors and Windows/Linux/Red Hat Enterprise Linux VMs
+- Architecture and deployement of a monitoring solution
+- Automation of firmware and system updates
  
 Tasks:
 - Deliver assigned projects,
