@@ -10,7 +10,7 @@ I’m an IT Infrastructure Engineer, performing audits, administration, and engi
 - **IT audit**: infrastructure and operation optimization, resilience, security
 - **development**: Automation (I love that, if only I could automate everything !), Self Healing Infrastructure, administration tools, API consumption
 - **network**: TCP/IP, network services, proxying and intermediation (NGINX, HAProxy, CloudFlare), DNS, etc
-- **systems**: Linux, Windows Servers, RedHat, BSD
+- **systems**: Linux, Windows Server, RedHat, BSD
 - **VoIP**: Cisco Unified Communication, 3CX (I have the advanced certification), Mitel MiVoice 5000 (Certified), Mitel products, DECT technologies and products (Mitel and Ascom)
 - **virtualization**: QEMU-KVM (Proxmox), VMWare ESXi, Microsoft Hyper-V
 - **monitoring**: CheckMK etc
