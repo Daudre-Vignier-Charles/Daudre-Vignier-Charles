@@ -10,6 +10,7 @@ And if you're wondering about my hobbies:
 - Reading books,
 - hiking and trekking,
 - pharmacology (especially CNS pharmacology) and chemistry
+- computer games: first-person shooters (FPS) like Call of Duty, Modern Warfare or Battlefield, real-time strategy (RTS) or turn-based strategy (TBS)
 
 ## Professionnal
 
