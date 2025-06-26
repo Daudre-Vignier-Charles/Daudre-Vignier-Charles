@@ -33,14 +33,15 @@ Administration of the hypervisors and technical VMs for Vinci Africa and DOM-TOM
   - Architecture and deployement of a monitoring solution
   - Automation of firmware and system updates
 
-##### March 2022 - August 2022 > Freelance > Developper and IT Consultant
+##### March 2022 - August 2022 > Two missions as Freelance Developper and IT Consultant
 
 First mission was related to Financial Technologies
 - Developpement of libraries for consuming the IBKR API
 - Development of libraries for financial analysis and data gathering
+- Devolopment of libraries for backend management, statistics, leverage management etc
 
 Second mission was related to :
-- Data Management and Analysis in a political context (no more details because of NDA)
+- Data Management and Analysis in a political context
 
 ##### 2020 - 2022 > Internship at GPLExpert in the engineering department as a System, Network and VoIP Administrator and Consultant
 
