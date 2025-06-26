@@ -13,6 +13,7 @@ I’m an IT Infrastructure Engineer, performing audits, administration, and engi
 - **systems**: Linux, Windows Server, RedHat, BSD
 - **VoIP**: Cisco Unified Communication, 3CX (I have the advanced certification), Mitel MiVoice 5000 (Certified), Mitel products, DECT technologies and products (Mitel and Ascom)
 - **virtualization**: QEMU-KVM (Proxmox), VMWare ESXi, Microsoft Hyper-V
+- **documentation**: AsciiDoc (I also create Asciidoctor plugins using Ruby), Markdown, Antora, Atlassian Confluence and custom solutions I developed using various programming languages.
 - **monitoring**: CheckMK etc
 - **Microsofts products**: Active Directory architecture and management, SQL Server, Microsoft DNS, DHCP etc
 - **mail security**: SPF, DMARC, DKIM
