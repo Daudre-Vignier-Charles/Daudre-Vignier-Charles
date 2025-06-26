@@ -20,7 +20,7 @@ I'm an IT Infrastructure Engineer and I do audit, administration and engineering
 #### Curiculum Vitae
 
 ##### September 2022 - September 2023 - System Engineer, Vinci
-- Managemement of the hypervisor and technical VMs of Vinci Africa and DOM-TOM with two other engineer.
+- Managemement of the hypervisors and technical VMs of Vinci Africa and DOM-TOM with two other engineer.
 - ~30 KVM and VMWare hypervisors
 - ~200 VMs Centos & Windows
 - My speciality in the team was Unix-Like os and KVM, one of my goal was to have an almost full automation of management of tasks and to implement Self Healing Infrastructure model for automated resolution of usual incidents (with the notable exception of disk space).
