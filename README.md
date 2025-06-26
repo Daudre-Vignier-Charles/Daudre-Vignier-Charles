@@ -8,7 +8,7 @@ My personal servers run Unix-like systems (BSD, Linux, Solaris), and I use Debia
 
 I’m an IT Infrastructure Engineer, performing audits, administration, and engineering across various areas of IT infrastructure.
 - **IT audit**: infrastructure and operation optimization, resilience, security
-- **software development**: Automation (I love that, if only I could automate everything !), Self Healing Infrastructure, administration tools, API consumption
+- **development**: Automation (I love that, if only I could automate everything !), Self Healing Infrastructure, administration tools, API consumption
 - **network**: TCP/IP, network services, proxying and intermediation (NGINX, HAProxy, CloudFlare), DNS, etc
 - **systems**: Linux, Windows Servers, RedHat, BSD
 - **VoIP**: Cisco Unified Communication, 3CX (I have the advanced certification), Mitel MiVoice 5000 (Certified), Mitel products, DECT technologies and products (Mitel and Ascom)
