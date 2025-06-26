@@ -1,11 +1,12 @@
 ### 👋 Hi, I’m Charles Daudré-Vignier (@Daudre-Vignier-Charles)
 
 #### Personnal
-My personal servers are Unix-Like (BSD/Linux/Solaris) and I use Debian as my desktop OS.
-I develop for my professional or personal needs in C, C#, Lua and Python3. I also do shell scripting (I'm a ZSH enthusiast) and I am a fan of Vim and Git.
+
+My personal servers run Unix-like systems (BSD, Linux, Solaris), and I use Debian as my desktop OS. I develop in C, C#, Lua, and Python 3 for both professional and personal needs. I also write shell scripts (I'm a Zsh enthusiast) and am a fan of Vim and Git.
 
 #### Professionnal / recruitment 
-I'm an IT Infrastructure Engineer and I do audit, administration and engineering in various fields of IT infrastructures:
+
+I’m an IT Infrastructure Engineer, performing audits, administration, and engineering across various areas of IT infrastructure.
 - **IT audit**: infrastructure and operation optimization, resilience, security
 - **software development**: Automation (I love that, if only I could automate everything !), Self Healing Infrastructure, administration tools, API consumption
 - **network**: TCP/IP, network services, proxying and intermediation (NGINX, HAProxy, CloudFlare), DNS, etc
