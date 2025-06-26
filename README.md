@@ -1,6 +1,6 @@
-### 👋 Hi, I’m Charles Daudré-Vignier (@Daudre-Vignier-Charles)
+# 👋 Hi, I’m Charles Daudré-Vignier (@Daudre-Vignier-Charles)
 
-#### Personnal
+## Personnal
 
 My personal servers run Unix-like systems (BSD, Linux, Solaris), and I use Debian as my desktop OS. I develop in C, C#, Lua, and Python 3 for both professional and personal needs. I also write shell scripts (I'm a Zsh enthusiast) and am a fan of Vim and Git.
 
@@ -11,7 +11,7 @@ And if you're wondering about my hobbies:
 - hiking and trekking,
 - pharmacology (especially CNS pharmacology) and chemistry
 
-#### Professionnal
+## Professionnal
 
 I’m an IT Infrastructure Engineer, performing audits, administration, and engineering across various areas of IT infrastructure.
 - **IT audit**: infrastructure and operation optimization, resilience, security
@@ -26,9 +26,9 @@ I’m an IT Infrastructure Engineer, performing audits, administration, and engi
 - **mail security**: SPF, DMARC, DKIM
 - **network and system security**: Linux hardening (bullet proof servers), deployment and management of security products (Cortex XDR, ESET), penetration testing and social engineering
 
-#### Curiculum Vitae
+## Curiculum Vitae
 
-##### September 2022 - September 2023 > Permanent contract at Synapsys as System Engineer, full time placed at Vinci headquarter as Unix-Like Expert
+### September 2022 - September 2023 > Permanent contract at Synapsys as System Engineer, full time placed at Vinci headquarter as Unix-Like Expert
 
 Administration of the hypervisors and technical VMs for Vinci Africa and DOM-TOM (French overseas departments and territories), together with two other engineers.
 - ~30 KVM and VMWare hypervisors
@@ -52,7 +52,7 @@ Tasks:
 - documentation
 - management of anomalies, incidents and problems.
 
-##### March 2022 - August 2022 > Two missions as Freelance Developper and IT Consultant
+### March 2022 - August 2022 > Two missions as Freelance Developper and IT Consultant
 
 First mission was related to Financial Technologies
 - Developpement of libraries for consuming the IBKR API
@@ -62,7 +62,7 @@ First mission was related to Financial Technologies
 Second mission was related to :
 - Data Management and Analysis in a political context
 
-##### 2020 - 2022 > Internship at GPLExpert in the engineering department as a System, Network and VoIP Administrator and Consultant
+### 2020 - 2022 > Internship at GPLExpert in the engineering department as a System, Network and VoIP Administrator and Consultant
 
 GPLExpert is an ISO27001 compliant company
 
@@ -76,7 +76,7 @@ Tasks:
 - security audits,
 - support N2-N3 (RUN)
 
-##### 2018 - 2020 > Internship at DSO Group (M&A with Groupe MCS, now iQera) as a System, Network and VoIP Technician
+### 2018 - 2020 > Internship at DSO Group (M&A with Groupe MCS, now iQera) as a System, Network and VoIP Technician
 
 Projects:
 - Fusion of DSO Group and Groupe MCS Cisco Unified Communication servers using Cisco API, Powershell and CUCM bulk management tools (the scripts are not public)
@@ -92,7 +92,7 @@ Tasks:
 - local services,
 - request and incident management
 
-#### Contact
+## Contact
 Github related technical contact
 <github[at]contact.daudre-vignier[dot]net>
 
