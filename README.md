@@ -4,6 +4,13 @@
 
 My personal servers run Unix-like systems (BSD, Linux, Solaris), and I use Debian as my desktop OS. I develop in C, C#, Lua, and Python 3 for both professional and personal needs. I also write shell scripts (I'm a Zsh enthusiast) and am a fan of Vim and Git.
 
+I also like to create SVG icons with Inkscape and play with CAD softwares (I'm definitively not a good CAD engineer but it is fun and useful).
+
+And if you're wondering about my hobbies:
+- Reading books,
+- hiking and trekking,
+- pharmacology (especialy CNS pharmacology) and chemistry
+
 #### Professionnal
 
 I’m an IT Infrastructure Engineer, performing audits, administration, and engineering across various areas of IT infrastructure.
