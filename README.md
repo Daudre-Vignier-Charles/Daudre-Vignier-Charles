@@ -20,22 +20,23 @@ I'm an IT Infrastructure Engineer and I do audit, administration and engineering
 #### Curiculum Vitae
 
 ##### September 2022 - September 2023 - System Engineer, Vinci
-- Managemement of the hypervisors and technical VMs of Vinci Africa and DOM-TOM with two other engineer.
+
+Administration of the hypervisors and technical VMs for Vinci Africa and DOM-TOM (French overseas departments and territories), together with two other engineers.
 - ~30 KVM and VMWare hypervisors
 - ~200 VMs Centos & Windows
-- My speciality in the team was Unix-Like os and KVM, one of my goal was to have an almost full automation of management of tasks and to implement Self Healing Infrastructure model for automated resolution of usual incidents (with the notable exception of disk space).
-- My project [kvm_infogathering](https://github.com/Daudre-Vignier-Charles/kvm_infogathering) was done in this context for gathering information from the KVM hypervisors
+- My specialty in the team was Unix-like OS and KVM. One of my goals was to achieve near-full automation of management tasks and to implement a Self-Healing Infrastructure model for the automated resolution of common incidents (notably excluding disk space issues).
+- My project [kvm_infogathering](https://github.com/Daudre-Vignier-Charles/kvm_infogathering) was developed in this context to collect information from KVM hypervisors.
 - Projects:
-  - KVM to VMWare migration
-  - Automated deployement of an EDR for the KVM hypervisors and the Windows/Linux/Centos VMs
+  - Migration from KVM to VMware
+  - Automated deployment of an EDR solution for KVM hypervisors and Windows/Linux/CentOS VMs
   - Architecture and deployement of a monitoring solution
   - Automation of firmware and system updates
 
 ##### March 2022 - August 2022 - Freelance, Developper and IT Consultant
-First mission was related to:
-- Financial Technologies
-  - Developpement of libraries for consumption of IBKR API
-  - Developpement of libraries for financial analysis and financial information gathering
+
+First mission was related to Financial Technologies
+- Developpement of libraries for consuming the IBKR API
+- Development of libraries for financial analysis and data gathering
  
 Second mission was related to :
 - Data Management and Analysis in a political context
