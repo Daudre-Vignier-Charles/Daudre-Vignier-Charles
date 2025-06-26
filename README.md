@@ -24,21 +24,21 @@ I’m an IT Infrastructure Engineer, performing audits, administration, and engi
 
 Administration of the hypervisors and technical VMs for Vinci Africa and DOM-TOM (French overseas departments and territories), together with two other engineers.
 - ~30 KVM and VMWare hypervisors
-- ~200 VMs Centos & Windows
+- ~200 VMs Red Hat Enterprise Linux & Windows
 
 Projects:
 - One of my team goals was to achieve near-full automation of management tasks and to implement a Self-Healing Infrastructure model for the automated resolution of common incidents (notably excluding disk space issues).
 - The script [kvm_infogathering](https://github.com/Daudre-Vignier-Charles/kvm_infogathering) was developed in this context to collect information from KVM hypervisors.
 - Projects:
   - Migration from KVM to VMware
-  - Automated deployment of an EDR solution for KVM hypervisors and Windows/Linux/CentOS VMs
+  - Automated deployment of an EDR solution for KVM hypervisors and Windows/Linux/Red Hat Enterprise Linux VMs
   - Architecture and deployement of a monitoring solution
   - Automation of firmware and system updates
  
 Tasks:
 - Deliver assigned projects,
-- N2/N3 operation of central infrastructures and common base,
-- monitoring and management of Windows Server, RedHat/CentOS, KVM/VMWare hypervisors lifecycle,
+- N2/N3 operation of central infrastructures and common core,
+- monitoring and management of Windows Server, Red Hat Enterprise Linux, KVM/VMWare hypervisors lifecycle,
 - middleware,
 - reporting,
 - postmortem documentation,
@@ -61,9 +61,29 @@ GPLExpert is an ISO27001 compliant company
 
 GPLExpert has the HDS state accreditation (Hébergeur de Données de Santé - Medical Data Hosting in english)
 
+Customers of GPLExpert are mainly healthcare companies but also industry and public services
 
+Tasks:
+- System and network engineering and administration (BUILD),
+- system and network audits,
+- security audits,
+- support N2-N3 (RUN)
 
 ##### 2018 - 2020 > Internship at DSO Group (M&A with Groupe MCS, now iQera) as a System, Network and VoIP Technician
+
+Projects:
+- Fusion of DSO Group and Groupe MCS Cisco Unified Communication servers using Cisco API, Powershell and CUCM bulk management tools (the scripts are not public)
+- Developpement of Windows Service using .NET C# and developpement of its client using .NET C#/WPF. The service runs as LocalSystem, allowing users to perform tasks that require elevated privileges through a client running with standard user rights. The service and client were installed through a package created with Inno Setup.
+
+Tasks:
+- Administration of Cisco Unified Communication servers and management of their call center
+- Device fleet management,
+- application management,
+- CRM,
+- network maintenance,
+- Active Directory,
+- local services,
+- request and incident management
 
 #### Contact
 Github related technical contact
