@@ -1,6 +1,8 @@
 # 👋 Hi, I’m Charles Daudré-Vignier (@Daudre-Vignier-Charles)
 
-## Personnal
+## About
+
+I’m an IT Infrastructure Engineer, performing audits, administration, and engineering across various areas of IT infrastructure.
 
 My personal servers run Unix-like systems (BSD, Linux, Solaris), and I use Debian as my desktop OS. I develop in C, C#, Lua, and Python 3 for both professional and personal needs. I also write shell scripts (I'm a Zsh enthusiast) and am a fan of Vim and Git.
 
@@ -12,9 +14,8 @@ And if you're wondering about my hobbies:
 - pharmacology (especially CNS pharmacology) and chemistry
 - computer games: first-person shooters (FPS) like Call of Duty, Modern Warfare or Battlefield, real-time strategy (RTS) and turn-based strategy (TBS)
 
-## Professionnal
+## Professionnal skills
 
-I’m an IT Infrastructure Engineer, performing audits, administration, and engineering across various areas of IT infrastructure.
 - **IT audit**: infrastructure and operation optimization, resilience, security
 - **development**: Automation (I love that, if only I could automate everything !), Self Healing Infrastructure, administration tools, API consumption
 - **network**: TCP/IP, network services, proxying and intermediation (NGINX, HAProxy, CloudFlare), DNS, etc
