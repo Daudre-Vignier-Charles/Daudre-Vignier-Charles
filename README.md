@@ -69,7 +69,7 @@ Second mission was related to :
 
 GPLExpert is an ISO27001 compliant company
 
-GPLExpert has the HDS state accreditation (Hébergeur de Données de Santé - Medical Data Hosting in english)
+GPLExpert has the HDS state accreditation (Hébergeur de Données de Santé - Medical Data Hosting)
 
 Customers of GPLExpert are mainly healthcare companies but also industry and public services
 
