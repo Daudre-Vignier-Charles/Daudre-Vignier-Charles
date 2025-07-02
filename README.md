@@ -11,6 +11,7 @@ I also like to create SVG icons with Inkscape and play with CAD softwares (I'm d
 And if you're wondering about my hobbies:
 - reading books,
 - hiking and trekking,
+- Finance (I studied accounting and corporate finance), valuation of listed shares, fundamental analysis
 - pharmacology (especially CNS pharmacology) and chemistry
 - computer games: first-person shooters (FPS) like Call of Duty, Modern Warfare or Battlefield, real-time strategy (RTS) and turn-based strategy (TBS)
 
