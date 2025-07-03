@@ -2,7 +2,7 @@
 
 ## Organizations
 
-- **[cmtgdv-org](https://github.com/cmtgdv-org)ù**: All CMTGDV-ORG projects are designed to be packaged as Debian archives.
+- **[cmtgdv-org](https://github.com/cmtgdv-org)**: All CMTGDV-ORG projects are designed to be packaged as Debian archives.
 
 ## About
 
