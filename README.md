@@ -6,7 +6,7 @@
 
 ## About
 
-I’m an IT Infrastructure Engineer, performing audits, administration, and engineering across various areas of IT infrastructure.
+I’m an IT Infrastructure Engineer, performing audits, administration, and engineering across various fields of IT infrastructure.
 
 My personal servers run Unix-like systems (BSD, Linux, Solaris), and I use Debian as my desktop OS. I develop in C, C#, Lua, and Python 3 for both professional and personal needs. I also write shell scripts (I'm a Zsh enthusiast) and am a fan of Vim and Git.
 
