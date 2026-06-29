@@ -40,7 +40,7 @@ And if you're wondering about my hobbies:
 
 ### September 2022 - September 2023 > Permanent contract at Synapsys as System Engineer, full time placed at Vinci headquarter as Unix-Like Expert
 
-Administration of hypervisors and technical VMs for Vinci Africa and the DOM-TOM (French overseas departments and territories), together with two other engineers.
+Management of hypervisors and technical virtual machines for Vinci Africa and the DOM-TOM (French overseas departments and territories), in collaboration with two other engineers.
 - ~30 KVM and VMWare hypervisors
 - ~200 VMs Red Hat Enterprise Linux & Windows
 
