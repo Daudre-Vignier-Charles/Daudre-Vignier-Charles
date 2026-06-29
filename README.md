@@ -8,11 +8,15 @@
 
 I’m an IT Infrastructure Engineer, performing audits, administration, and engineering across various fields of IT infrastructure.
 
-My personal servers run Unix-like systems (BSD, Linux, Solaris), and I use Debian as my desktop OS. I'm also a programmer analyst and I develop softwares for both professional and personal needs.
+My personal servers run Unix-like systems (BSD, Linux, Solaris), and I use Debian as my desktop OS.
 
-I also like to create SVG icons with Inkscape, edit pictures with Gimp and play with CAD softwares (I'm definitively not a good CAD engineer but it is fun and useful).
+I'm also a programmer analyst and I develop softwares for both professional and personal needs.
+As a programer analyst I place great emphasis on meeting customers' expectations and business needs and on providing state-of-the art softwares with a clear, extensible, modular, testable, and well-documented architecture.
+
 
 And if you're wondering about my hobbies:
+
+- I create SVG icons with Inkscape, edit pictures with Gimp and play with CAD softwares (I'm definitively not a good CAD engineer but it is fun and useful).
 - reading books,
 - hiking and trekking,
 - finance (I studied accounting and corporate finance), valuation of listed shares, fundamental analysis
