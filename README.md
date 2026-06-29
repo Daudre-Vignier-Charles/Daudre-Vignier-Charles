@@ -6,7 +6,7 @@
 
 ## About
 
-I’m an IT Infrastructure Engineer, performing audits, administration, and engineering across various fields of IT infrastructure.
+I’m an IT Infrastructure Engineer, performing audits, administration, and engineering across various fields of IT infrastructures.
 My personal servers run Unix-like systems (BSD, Linux, Solaris), and I use Debian as my desktop OS.
 
 Although my primary work is in IT infrastructure engineering and management, I also work as a programmer-analyst, developing software for both professional and personal projects.
