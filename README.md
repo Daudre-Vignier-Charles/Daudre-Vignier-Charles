@@ -7,12 +7,11 @@
 ## About
 
 I’m an IT Infrastructure Engineer, performing audits, administration, and engineering across various fields of IT infrastructure.
-
 My personal servers run Unix-like systems (BSD, Linux, Solaris), and I use Debian as my desktop OS.
 
-I'm also a programmer analyst and I develop softwares for both professional and personal needs.
-As a programer analyst I place great emphasis on meeting customers' expectations and business needs and on providing state-of-the art softwares with a clear, extensible, modular, testable, and well-documented architecture.
+Although my primary work is in IT infrastructure engineering and management, I also work as a programmer-analyst, developing software for both professional and personal projects.
 
+As a programmer-analyst, I place great emphasis on understanding customers' expectations and business requirements, and on delivering state-of-the-art software built on a clear, extensible, modular, testable, and well-documented architecture.
 
 And if you're wondering about my hobbies:
 
